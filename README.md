@@ -1,4 +1,4 @@
-# Realest - Real Estate App
+# EstateLens - Real Estate App
 
 **Live demo:** https://purna-reddy6.github.io/EstateLens/
 
@@ -11,7 +11,7 @@ This project is a single-page web application (SPA) prototype for a modern real 
 * **Dynamic Filtering:** Users can instantly filter the properties shown on both the list and the map to view "All," "For Sale," or "For Rent" listings.
 * **Slide-In Details Panel:** Clicking a property opens a rich details panel that includes:
     * Property photos and key attributes (price, area, furnishing).
-    * A **"Realest Trust Report"** detailing verified info like legal status, water source, and power backup.
+    * A **"EstateLens Trust Report"** detailing verified info like legal status, water source, and power backup.
     * A **"Liveability Index"** (rating Walkability, Safety, Noise, and Connectivity) visualized with a dynamic radar chart using [Chart.js](https://www.chartjs.org/).
 
 ## Technologies Used

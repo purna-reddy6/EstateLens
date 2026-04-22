@@ -17,7 +17,7 @@ fields, consumed by both the Leaflet map and the Chart.js radar visualization.
 | `boundary` | [[lat, lng], …] | Polygon drawn on the map |
 | `photos` | string[] | Image URLs |
 
-## Realest Trust Report
+## EstateLens Trust Report
 
 Verified attributes shown in the slide-in panel: legal status, water source,
 power backup, and ownership verification.
